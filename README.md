@@ -62,5 +62,3 @@ This project was developed as an academic project to practise web application de
 - GitHub: [patilkomal9260-droid](https://github.com/patilkomal9260-droid)
 - LinkedIn: [Komal Patil](https://www.linkedin.com/in/komal-patil-499166379)
 
----
-⭐ If you find this project useful, consider giving it a star!
