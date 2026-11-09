@@ -50,15 +50,6 @@ It helps users register as donors and submit donation requests. The admin can vi
 6. Build the project.
 7. Run the application using Visual Studio.
 
-## 📸 Screenshots
-Project screenshots can be viewed in the repository.
-
 ## 🎓 Project Purpose
 This project was developed as an academic project to practise web application development, database connectivity, and CRUD operations using ASP.NET Web Forms and SQL Server.
-
-## 👩‍💻 Developer
-**Komal Patil**
-
-- GitHub: [patilkomal9260-droid](https://github.com/patilkomal9260-droid)
-- LinkedIn: [Komal Patil](https://www.linkedin.com/in/komal-patil-499166379)
 
